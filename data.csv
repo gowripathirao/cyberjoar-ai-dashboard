@@ -1,0 +1,4 @@
+lat,lon,label,type
+12.9716,77.5946,Intercepted Signal,OSINT
+28.7041,77.1025,Field Agent Report,HUMINT
+19.0760,72.8777,Satellite Capture,IMINT
